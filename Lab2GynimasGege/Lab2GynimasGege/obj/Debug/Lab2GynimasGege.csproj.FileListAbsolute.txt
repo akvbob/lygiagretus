@@ -1,0 +1,7 @@
+C:\Users\Akvile\Desktop\5semestras\Lygiagretus programavimas\L2gynimas\Lab2GynimasGege\Lab2GynimasGege\bin\Debug\Lab2GynimasGege.exe.config
+C:\Users\Akvile\Desktop\5semestras\Lygiagretus programavimas\L2gynimas\Lab2GynimasGege\Lab2GynimasGege\bin\Debug\Lab2GynimasGege.exe
+C:\Users\Akvile\Desktop\5semestras\Lygiagretus programavimas\L2gynimas\Lab2GynimasGege\Lab2GynimasGege\bin\Debug\Lab2GynimasGege.pdb
+C:\Users\Akvile\Desktop\5semestras\Lygiagretus programavimas\L2gynimas\Lab2GynimasGege\Lab2GynimasGege\obj\Debug\Lab2GynimasGege.csprojAssemblyReference.cache
+C:\Users\Akvile\Desktop\5semestras\Lygiagretus programavimas\L2gynimas\Lab2GynimasGege\Lab2GynimasGege\obj\Debug\Lab2GynimasGege.csproj.CoreCompileInputs.cache
+C:\Users\Akvile\Desktop\5semestras\Lygiagretus programavimas\L2gynimas\Lab2GynimasGege\Lab2GynimasGege\obj\Debug\Lab2GynimasGege.exe
+C:\Users\Akvile\Desktop\5semestras\Lygiagretus programavimas\L2gynimas\Lab2GynimasGege\Lab2GynimasGege\obj\Debug\Lab2GynimasGege.pdb
